@@ -60,6 +60,7 @@ public class Student extends Name {
         protected final Student student;
 
         protected StudentBuilder() {
+            student = new Student();
         }
 
         protected StudentBuilder(Student student) {
