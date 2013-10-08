@@ -8,7 +8,11 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 public class Student extends Name {
+    /*
+    test
+     */
     private Long studentnummer;
+    private long id;
 //    private String displayname;
 //
 //    private String firstname;
